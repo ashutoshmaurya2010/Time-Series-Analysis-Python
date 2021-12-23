@@ -1,0 +1,48 @@
+Time-Series Data:
+A time series contains data points that increase, decrease, or otherwise change in chronological order over a period.
+A time series that incorporates the records of a single feature or variable is called a univariate time series.
+If the records incorporate more than one feature or variable, the series is called a multivariate time series.
+In addition, a time series can be designated in two ways: continuous or discrete.
+
+
+In a discrete time series , data observation is carried out at a specific time or equally spaced,
+as with temperature increases or decreases, exchange rates of currencies, air pressure data, etc. 
+
+Cross-Section Data:
+Cross-section data is data gathered at a specific point of time for several subjects such as closing prices of a 
+particular group of stocks on a specific date, opinion polls of elections, obesity level in population, etc. 
+Cross-section studies are utilized in many research areas such as medical, economics, psychology, etc.
+
+
+Panel Data/Longitudinal Data
+Panel data/longitudinal data contains observations of multiple occurrences collected over various durations of time
+ for the same individuals. It is data that is determined periodically by the number of observations in cross-sectional 
+data units such as individuals, companies, or government agencies.
+
+Trend:
+A trend is a pattern that is observed over a period of time and represents the mean rate of change with respect to time.
+A trend usually shows the tendency of the data to increase/uptrend or decrease/downtrend during the long run. 
+It is not always necessary that the increase or decrease is in the same direction throughout the given period of time. 
+A trend line is also drawn using candlestick charts.
+
+
+Detecting Trend Using a Hodrick-Prescott Filter
+The Hodrick-Prescott (HP) filter has become a benchmark for getting rid of trend movements in data. 
+
+
+Detrending a Time Series:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
